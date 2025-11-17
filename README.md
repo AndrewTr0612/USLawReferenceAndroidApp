@@ -161,7 +161,7 @@ This project showcases the power of mobile technology in making essential civic 
   - Content curation and integration
 
 ### AI Tools Disclosure
-This project utilized **GitHub Copilot** as an AI-assisted development tool in the following ways:
+This project utilized **GitHub Copilot**, **Chat GPT** as an AI-assisted development tool in the following ways:
 
 **Code Generation & Implementation:**
 - Assisted in generating Flutter widget structures and boilerplate code
